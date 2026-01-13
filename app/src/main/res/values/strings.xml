@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Safe Device Info Demo</string>
+
+    <string name="battery_level">Battery Level</string>
+    <string name="battery_health">Battery Health</string>
+    <string name="battery_status">Battery Status</string>
+    <string name="battery_power_source">Power Source</string>
+    <string name="battery_technology">Battery Technology</string>
+    <string name="battery_present">Battery Present</string>
+    <string name="battery_temperature">Battery Temperature</string>
+    <string name="battery_voltage">Battery Voltage</string>
+    <string name="battery_average">Battery Average Current</string>
+    <string name="battery_power_profile">Battery Capacity</string>
+
+    <string name="menu_camera">Camera Facing</string>
+    <string name="camera_resolution">Camera Resolution</string>
+    <string name="camera_aperture">Camera Aperture</string>
+    <string name="camera_focal_length">Camera Focal Length</string>
+    <string name="camera_af_modes">Camera AF Modes</string>
+    <string name="camera_size">Sensor Size</string>
+    <string name="camera_pixel_size">Pixel Size</string>
+    <string name="camera_view_angle">View Angle</string>
+    <string name="camera_formats">Output Formats</string>
+    <string name="camera_iso">ISO Range</string>
+    <string name="camera_color_filter">Color Filter Arrangement</string>
+    <string name="camera_orientation">Sensor Orientation</string>
+    <string name="camera_flash">Flash Available</string>
+
+    <string name="system_manufacture">Manufacturer</string>
+    <string name="system_model">Model</string>
+    <string name="system_brand">Brand</string>
+    <string name="system_release">Release</string>
+    <string name="system_api">API Level</string>
+    <string name="system_code_name">Code Name</string>
+    <string name="system_device">Device</string>
+    <string name="system_product">Product</string>
+    <string name="system_board">Board</string>
+    <string name="system_platform">Platform</string>
+    <string name="system_build">Build ID</string>
+    <string name="system_vm">VM Version</string>
+    <string name="system_security">Security Patch</string>
+    <string name="system_baseband">Baseband</string>
+    <string name="system_build_type">Build Type</string>
+    <string name="system_tags">Build Tags</string>
+    <string name="system_incremental">Incremental</string>
+    <string name="system_description">Build Description</string>
+    <string name="system_fingerprint">Fingerprint</string>
+    <string name="system_device_features">System Features</string>
+    <string name="system_language">Language</string>
+    <string name="system_timezone">Time Zone</string>
+    <string name="system_uptime">System Uptime</string>
+    <string name="system_refresh_rate">Refresh Rate</string>
+</resources>
